@@ -11,7 +11,7 @@ README作为说明文件，作用是让浏览者快速、鸟瞰式地了解项�
 -------------
 
 > 关于我，欢迎关注  
- 博客：[Ben的简书](http://www.jianshu.com/users/8a035c29436c/latest_articles) 微信：[ben_said][null-link](chrome://not-a-link)
+ 博客：[Ben的简书](http://www.jianshu.com/users/8a035c29436c/latest_articles)微信：[ben_said](chrome://not-a-link)
  (如果你想打造个人品牌，把自己的介绍放在这里也是可以的)
 
 Github项目README.md模板  
